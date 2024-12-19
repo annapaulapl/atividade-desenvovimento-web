@@ -1,6 +1,6 @@
-# myapp
+# app layout
 
-A new Flutter project.
+Projeto desenvolvido pela aluna Anna Paula do curso talento tech na disciplina de desenvolvimento web.
 
 ## Getting Started
 
